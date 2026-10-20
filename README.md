@@ -25,4 +25,4 @@ Then open `trends.csv` to see the latest top 10 hashtags.
 
 ---
 
-**Built by Muhammad Mohsin — Onyx AI** · [YouTube](https://www.youtube.com/@onyxaipk) · [All products](https://mohsina91.gumroad.com) · [Catalog](https://onyxailabs.github.io/Catalog/)
+**Built by Muhammad Mohsin — Onyx AI** · [YouTube](https://www.youtube.com/@onyxaipk) · [All products](https://onyxailabs.gumroad.com) · [Catalog](https://onyxailabs.github.io/Catalog/)
